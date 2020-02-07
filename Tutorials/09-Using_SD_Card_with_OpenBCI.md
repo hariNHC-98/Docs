@@ -9,7 +9,7 @@ There are many situations where logging biometric data to local storage may be d
 ![SD_Class](../assets/images/SDclass.jpg)
 ![SD_Cards](../assets/images/MicroSDcards.jpg)
 
-First thing to know is that low-cost cards and slow speed cards are **not** recommended. When shopping for SD cards, make sure to look for high quality (Scan Disk, eg) and high speed (class 10 minimum). Look for the symbols to the right to know you are getting the right kind of card. You will also want to look for a card that has alot of memory. OpenBCI will generate about 1 mega bye of data per minute when it is recording 8 channels at the default rate of 250Hz. That's alot of data!
+First thing to know is that low-cost cards and slow speed cards are **not** recommended. When shopping for SD cards, make sure to look for high quality (_San Disk_, eg) and high speed (class 10 minimum). Look for the symbols to the right to know you are getting the right kind of card. You will also want to look for a card that has alot of memory. OpenBCI will generate about 1 mega bye of data per minute when it is recording 8 channels at the default rate of 250Hz. That's alot of data!
 
 We've used these two cards in the OpenBCI lab, and they both work great. 
 
